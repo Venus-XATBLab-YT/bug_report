@@ -1,6 +1,6 @@
 # Helmet Store Showroom Site v1.0 by oretnom23 has SQL injection
 
-Vulnerability Discoverer: Venus-TBLab-YangTao
+Vulnerability Discoverer: Yang Tao, TBLab of Venustech
 
 Login account: admin/admin123 (Super Admin account)
 
